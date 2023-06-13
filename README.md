@@ -5,4 +5,4 @@ Inpainted Image Dataset consists of three folders: Inpainted Image, Cropped Imag
 2. Cropped Image: This folder consists of images which shows the region or object which are removed from the image for inpainting.
 3. Mask image: This folder contains the mask images showing the inpainted region as white and uninpainted region as black.
 
-**Code of this article may be provided by contacting the given email id:** nitishkumar182@gmail.com
+**Code of this article may be provided by contacting the given email id:** tmeenpal.etc@nitrr.ac.in or nitishkumar182@gmail.com
